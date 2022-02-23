@@ -24,9 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Biostatistics
-  - year: 2024
-  - institution: Southern Medical University
+  - course: BSc in Biostatistics 2020-2024
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -34,7 +32,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: https://mail.google.com/mail/u/0/#inbox
 - icon: github
   icon_pack: fab
   link: https://github.com/cafferychen777
