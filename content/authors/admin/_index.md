@@ -18,15 +18,15 @@ bio: My research interests include biostatistics, statistics and bioinfo.
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine learning
+- Genetics
 
 # Education to show in About widget
 education:
   courses:
   - course: BSc in Biostatistics
-  - institution: Southern Medical University
-    year: 2024
+  - institution:Southern Medical University
+    year:2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
