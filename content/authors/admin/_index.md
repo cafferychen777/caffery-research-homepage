@@ -6,7 +6,7 @@ title: Caffery Yang
 superuser: true
 
 # Role/position/tagline
-role: Sophomore majored in biostatistics
+role: Sophomore Majored in Biostatistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,9 +25,8 @@ interests:
 education:
   courses:
   - course: BSc in Biostatistics
-  - institution: Southern Medical University
   - year: 2024
-
+  - institution: Southern Medical University
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
