@@ -55,6 +55,6 @@ highlight_name: true
 
 ---
 
-Cafery Yang is a Sophomore in Southern Medical Uinversity Majored in Biostatistics. He got 2020-2021 National Scholarship from Ministry of Education of China. Only 0.2% Chinese undergraduate students can get the honor. Now he is studying hard to pass the TOEFL test so that he can be a PHD candicate.
+Cafery Yang is a Sophomore in Southern Medical Uinversity Majored in Biostatistics. He got 2020-2021 National Scholarship from Ministry of Education of China. Only 0.2% Chinese undergraduate students can get the honor every year. Now he is studying hard to pass the TOEFL test so that he can be a PHD candicate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
