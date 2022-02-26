@@ -55,8 +55,6 @@ highlight_name: true
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Cafery Yang is a Sophomore in Southern Medical Uinversity Majored in Biostatistics. He got 2020-2021 National Scholarship from Ministry of Education of China. Only 0.2% Chinese undergraduate students can get the honor. Now he is studying hard to pass the TOEFL test so that he can be a PHD candicate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
