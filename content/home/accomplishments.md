@@ -26,18 +26,18 @@ item:
 - certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-12-25"
-  description: Only 0.2 percent of China's top students are awarded the honor every year.
+  description: "Only 0.2 percent of China's top students are awarded the honor every year."
   organization: Ministry of Education of the People's Republic of China
   organization_url: http://www.moe.gov.cn/
-  title: China National Scholarship
+  title: 'China National Scholarship'
   url: ""
 - certificate_url: https://github.do/https://raw.githubusercontent.com/cafferychen777/caffery-s-homepage/master/data/%E6%95%B0%E7%AB%9E%E5%A5%96%E7%8A%B6.pdf
   date_end: ""
   date_start: "2021-12-01"
-  description: This competition mainly examines the learning of advanced mathematics, advanced algebra, probability theory and mathematical statistics.
+  description: "This competition mainly examines the learning of advanced mathematics, advanced algebra, probability theory and mathematical statistics."
   organization: Chinese Mathmatical Society
   organization_url: http://www.cms.org.cn/
-  title: First Prize of National Mathematics Competition for college students in Guangdong Province
+  title: 'First Prize of National Mathematics Competition for college students in Guangdong Province'
   url: 
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
