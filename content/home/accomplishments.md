@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
   date_start: "2021-12-25"
   description: "Only 0.2 percent of China's top students are awarded the honor every year."
@@ -31,7 +31,7 @@ item:
   organization_url: http://www.moe.gov.cn/
   title: 'China National Scholarship'
   url: ""
-- certificate_url: https://github.do/https://raw.githubusercontent.com/cafferychen777/caffery-s-homepage/master/data/%E6%95%B0%E7%AB%9E%E5%A5%96%E7%8A%B6.pdf
+- certificate_url: https://drive.google.com/file/d/1bmA-mEOaZtscIa-ZkOCt4uQ80yQqTThk/view?usp=sharing
   date_end: ""
   date_start: "2021-12-01"
   description: "This competition mainly examines the learning of advanced mathematics, advanced algebra, probability theory and mathematical statistics."
@@ -39,13 +39,13 @@ item:
   organization_url: http://www.cms.org.cn/
   title: 'First Prize of National Mathematics Competition for college students in Guangdong Province'
   url: 
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://drive.google.com/file/d/14OkSXxWFBFDiIy2WD4Lh0HsipGGJkkEN/view?usp=sharing
+  date_end: 
+  date_start: "2020-10-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: China Society for Industrial and Applied Mathematics
+  organization_url: https://csiam.org.cn/
+  title: 'Second Prize of Guangdong Province in National Mathematical Modeling Contest for College Students'
   url: ""
 
 design:
