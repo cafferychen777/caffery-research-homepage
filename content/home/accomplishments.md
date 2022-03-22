@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-12-25"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Ministry of Education of the People's Republic of China
+  organization_url: http://www.moe.gov.cn/
+  title: China National Scholarship
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
