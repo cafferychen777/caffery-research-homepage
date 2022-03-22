@@ -41,12 +41,41 @@ item:
   url: 
 - certificate_url: https://drive.google.com/file/d/14OkSXxWFBFDiIy2WD4Lh0HsipGGJkkEN/view?usp=sharing
   date_end: 
-  date_start: "2020-10-01"
+  date_start: "2021-10-01"
   description: ""
   organization: China Society for Industrial and Applied Mathematics
   organization_url: https://csiam.org.cn/
   title: 'Second Prize of Guangdong Province in National Mathematical Modeling Contest for College Students'
   url: ""
+- certificate_url: 
+  date_end: 
+  date_start: "2021-10-01"
+  description: "Only 2 percent of smuers are awarded the honor every year."
+  organization: Southern Medical University
+  organization_url: https://www.smu.edu.cn/
+  title: 'First Class Scholarship of Southern Medical University'
+  url: ""
+- certificate_url: 
+  date_end: 
+  date_start: "2021-10-01"
+  description: 
+  organization: Southern Medical University
+  organization_url: https://www.smu.edu.cn/
+  title: 'Outstanding Student of Southern Medical University'
+  url: ""
+-certificate_url:
+https://drive.google.com/file/d/1o5lSMH5IKEhxeKf5VFQ63Wu6JeOhnUie/view?usp=sharing
+  date_end: 
+  date_start: "2022-3-01"
+  description: 
+  organization: Chinese Society of Optimization, Overall Planning and Economic Mathematics
+  organization_url: http://www.scope.org.cn
+  title: 'Outstanding Student of Southern Medical University'
+  url: ""
+
+
+
+
 
 design:
   columns: '2' 
