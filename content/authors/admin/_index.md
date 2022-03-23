@@ -22,8 +22,8 @@ interests:
 - Genetics
 
 # Education to show in About widget
-education:
-  courses:
+# ducation:
+  # courses:
   - course: BSc in Biostatistics 2020-2024
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
