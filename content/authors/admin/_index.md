@@ -24,6 +24,8 @@ interests:
 # Education to show in About widget
 # ducation:
   # courses:
+  education:
+  courses:
   - course: BSc in Biostatistics 2020-2024
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,7 +49,7 @@ social:
    icon_pack: ai
    link: uploads/resume.pdf
 
-#Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cafferychen7850@gmail.com"
 
 # Highlight the author in author lists? (true/false)
