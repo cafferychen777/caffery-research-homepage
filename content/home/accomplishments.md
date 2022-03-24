@@ -63,14 +63,14 @@ item:
   organization_url: https://www.smu.edu.cn/
   title: 'Outstanding Student of Southern Medical University'
   url: ""
-- certificate_url: https://drive.google.com/file/d/1o5lSMH5IKEhxeKf5VFQ63Wu6JeOhnUie/view?usp=sharing 
-  date_end: 
-  date_start: "2022-03-01"
-  description: 
-  organization: Chinese Society of Optimization, Overall Planning and Economic Mathematics
-  organization_url: http://www.scope.org.cn
-  title: 'MathorCup Mathematical Modeling Challenge for College students-the third Prize of big data Competition'
-  url: ""
+# - certificate_url: https://drive.google.com/file/d/1o5lSMH5IKEhxeKf5VFQ63Wu6JeOhnUie/view?usp=sharing 
+ # date_end: 
+  # date_start: "2022-03-01"
+  # description: 
+  # organization: Chinese Society of Optimization, Overall Planning and Economic Mathematics
+  # organization_url: http://www.scope.org.cn
+  # title: 'MathorCup Mathematical Modeling Challenge for College students-the third Prize of big data Competition'
+  # url: ""
 
 
 
