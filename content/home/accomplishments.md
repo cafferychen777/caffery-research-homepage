@@ -77,5 +77,5 @@ item:
 
 
 design:
-  columns: '3' 
+  columns: '1' 
 ---
