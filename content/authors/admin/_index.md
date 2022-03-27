@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: BSc in Biostatistics 2020-2024
-  - Southern Medical University
+  - education: Southern Medical University
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
