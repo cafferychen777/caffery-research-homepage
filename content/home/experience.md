@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Guangzhou
     date_start: '2021-05-01'
-    date_end: '2020-12-31'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
