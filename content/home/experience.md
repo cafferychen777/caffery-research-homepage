@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+-title: Group Leader
+company: Mathematical Modeling Group
+company_url: ''
+company_logo: org-x
+location: Guangzhou
+date_start: '2021-5-01'
+date_end: ''
+description: Participated in a number of mathematical modeling competitions at different level.A variety of methods are used, including time series, multiple regression analysis, grey neural network prediction, greedy algorithm and so on.
  
         
 
