@@ -22,19 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: ACACIA(Primary heAlth Care quAlity Cohort In chinA) Lab
-    company_url: ''
-    company_logo: org-gc
-    location: Guangzhou
-    date_start: '2021-2-01'
-    date_end: '2021-9-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Collecting
-        * Communicating
-        * Writing
+ 
         
 
 
