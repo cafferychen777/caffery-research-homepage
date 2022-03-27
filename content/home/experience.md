@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: ACACIA LAB
     company_url: ''
-    company_logo: org-gc
+    company_logo: ACACIA
     location: Guangzhou
     date_start: '2021-02-01'
     date_end: '2021-09-01'
