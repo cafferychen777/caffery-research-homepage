@@ -29,4 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+I helped frontline clinicians construct a standardized patient script for pediatric eczema cases
+
 
