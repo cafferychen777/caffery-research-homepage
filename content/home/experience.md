@@ -36,7 +36,7 @@ experience:
         * Communicating
         * Writing
         
-  - title: Professor of Semiconductor Physics
+  - title: Group Leader
     company: University X
     company_url: ''
     company_logo: org-x
