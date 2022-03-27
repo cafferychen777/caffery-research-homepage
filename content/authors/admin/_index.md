@@ -13,7 +13,7 @@ organizations:
 - name: Southern Medical University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biostatistics, statistics and bioinfo.
+bio: My research interests include biostatistics, statistics and bioinformatics.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,7 @@ interests:
 education:
   courses:
   - course: BSc in Biostatistics 2020-2024
+  - Southern Medical University
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
