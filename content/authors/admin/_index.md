@@ -18,9 +18,9 @@ bio: My research interests include biostatistics, statistics and bioinformatics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Machine learning
 - Genetics
+- Genomics
+- Machine learning
 
 # Education to show in About widget
 education:
