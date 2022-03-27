@@ -11,6 +11,7 @@ role: Sophomore Majored in Biostatistics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Southern Medical University
+  url: https://www.smu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include biostatistics, statistics and bioinformatics.
@@ -24,8 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Biostatistics 2020-2024
-  - institution: Southern Medical University
+  - course: BSc in Biostatistics
+    institution: Southern Medical University
+    year: 2024
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
