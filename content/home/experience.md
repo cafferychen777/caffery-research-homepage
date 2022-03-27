@@ -37,10 +37,10 @@ experience:
         * Writing
         
   - title: Group Leader
-    company: University X
+    company: Mathematical Modeling Group
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Guangzhou
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
