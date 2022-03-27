@@ -26,15 +26,15 @@ experience:
     company: ACACIA LAB
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Guangzhou
     date_start: '2021-02-01'
     date_end: '2021-09-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Collecting
+        * Communicating
+        * Writing
         
   - title: Professor of Semiconductor Physics
     company: University X
