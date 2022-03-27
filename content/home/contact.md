@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: cafferychen7850@gmail.com
-  phone: 13020952531
+  phone: +86 13020952531
   address:
     city: Guangzhou
     region: Guangdong province
