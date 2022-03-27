@@ -55,6 +55,11 @@ highlight_name: true
 
 ---
 
-Cafery Yang is a sophomore in Southern Medical University majored in biostatistics. He got 2020-2021 National Scholarship from Ministry of Education of China. Only 0.2% Chinese undergraduate students can get the honor every year.
+I am a sophomore in Southern Medical University majored in biostatistics.
 
+I got 2020-2021 National Scholarship from Ministry of Education of China. Only 0.2 percent of China's top students receive this honor each year.
+
+I am very good at mathematical modeling and have achieved good results in a number of national competitions, large and small. And in my freshman year, I worked as a research assistant in a scientific research on grass-roots health quality assessment through standardized patients, which has been completed and the results have been put into practice.
+
+Now I'm looking for a summer research on genomics. If you can offer a opportunity, please feel free to contact me.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
