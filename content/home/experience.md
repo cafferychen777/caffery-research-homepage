@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: GenCoin
+    company: ACACIA LAB
     company_url: ''
     company_logo: org-gc
     location: California
