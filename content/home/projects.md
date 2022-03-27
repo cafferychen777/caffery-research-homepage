@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Mathematical modeling
+    tag: Mathematical modeling
   - name: Other
     tag: Demo
 
