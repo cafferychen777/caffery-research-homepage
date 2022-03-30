@@ -1,8 +1,8 @@
 ---
-title: ACACIA Study
-summary: Primary heAlth Care quAlity Cohort In chinA （ACACIA study）
+title: Forecasting, decision making and evaluation models in supply chain management
+summary: Based on the entropy weight Topsis method, 0-1 programming and linear programming, this model studies the evaluation of suppliers in supply chain management, the formulation and evaluation of ordering plans and transshipment plans.
 tags: 
-- Global Health
+- 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
