@@ -1,6 +1,6 @@
 ---
 title: Prediction and Analysis Model of Fire Alarm Data
-summary: It uses ARMA time series, polynomial fitting, Moran index, Spearman and Kendall correlation coefficient 
+summary: It uses ARMA time series, polynomial fitting, Moran index, Spearman and Kendall correlation coefficient. 
 tags: 
 - Global Health
 date: "2016-04-27T00:00:00Z"
