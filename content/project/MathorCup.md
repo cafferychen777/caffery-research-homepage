@@ -1,8 +1,9 @@
 ---
-title: ACACIA Study
-summary: Primary heAlth Care quAlity Cohort In chinA （ACACIA study）
+title: Used car valuation model
+summary: This model uses Miceforest multiple fill and random forest regression, and achieves better results than ML linear regression, ridge regression, and decision tree models.
+
 tags: 
-- Global Health
+- 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
