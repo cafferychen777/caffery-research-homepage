@@ -1,6 +1,6 @@
 ---
-title: ACM&ICM
-summary: Primary heAlth Care quAlity Cohort In chinA （ACACIA study）
+title: Carbon sequestration calculation and forest management decision model
+summary: we established several models to respectively conduct the calculation of the amount of the carbon sequestration, and the assessment and the decision-making of the forest management based on nonlinear programming and multi-faceted value assessment.
 tags: 
 - Global Health
 date: "2016-04-27T00:00:00Z"
