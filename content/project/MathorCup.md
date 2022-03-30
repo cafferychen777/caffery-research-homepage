@@ -7,7 +7,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.researchgate.net/project/ACACIA-Study"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
