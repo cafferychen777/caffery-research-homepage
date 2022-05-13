@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: https://docs.google.com/document/d/1Yry7uzQGdY1d56VRJJo3cqil1jeTWXL6BipN1oNld-Y/edit?usp=sharing
   date_end: ""
   date_start: "2021-12-25"
   description: "Only 0.2 percent of China's top students are awarded the honor every year."
