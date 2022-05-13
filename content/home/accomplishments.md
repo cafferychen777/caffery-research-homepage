@@ -31,6 +31,14 @@ item:
   organization_url: http://www.moe.gov.cn/
   title: 'China National Scholarship'
   url: ""
+- certificate_url: https://www.comap-math.com/mcm/2022Certs/2203020.pdf
+  date_end: ""
+  date_start: "2022-05-05"
+  description: ""
+  organization: Consortium for Mathematics and Its Applications
+  organization_url: https://www.comap.com/
+  title: 'Interdisciplinary Contest in Modeling Meritorious Winner'
+  url: ""
 - certificate_url: https://drive.google.com/file/d/1bmA-mEOaZtscIa-ZkOCt4uQ80yQqTThk/view?usp=sharing
   date_end: ""
   date_start: "2021-12-01"
