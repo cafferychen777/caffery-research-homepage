@@ -69,7 +69,7 @@ item:
   description: 
   organization: Southern Medical University
   organization_url: https://www.smu.edu.cn/
-  title: 'Outstanding Student of Southern Medical University'
+  title: 'Outstanding Student Scholarship of Southern Medical University'
   url: ""
 # - certificate_url: https://drive.google.com/file/d/1o5lSMH5IKEhxeKf5VFQ63Wu6JeOhnUie/view?usp=sharing 
  # date_end: 
