@@ -19,7 +19,7 @@ bio: My research interests include biostatistics, statistics and bioinformatics.
 # Interests to show in About widget
 interests:
 - Genetics
-- Genomics
+- Health system
 - Machine learning
 
 # Education to show in About widget
@@ -58,10 +58,10 @@ highlight_name: true
 
 ---
 
-I am a sophomore in Southern Medical University majored in biostatistics.
+I am a sophomore in Southern Medical University majoring in biostatistics.
 
 I got 2020-2021 National Scholarship from Ministry of Education of China. Only 0.2 percent of China's top students receive this honor each year.
 
 I am very good at mathematical modeling and have won a lot of awards in many national competitions. And in my freshman year, I worked as a research assistant in a scientific research on grass-roots health quality assessment through standardized patients, which has been completed and the results have been put into practice.
 
-Now I'm looking for a summer research on genomics. If you can offer a opportunity, please feel free to contact me.
+Now I'm looking for a summer research on health big data or genetics. If you can offer a opportunity, please feel free to contact me.
