@@ -40,7 +40,7 @@ experience:
   - title: Research Assistant
     company: Mathematical Modeling Group
     company_url: ''
-    company_logo: org-x
+    company_logo: cwru-logo
     location: Guangzhou
     date_start: '2021-05-01'
     date_end: ''
