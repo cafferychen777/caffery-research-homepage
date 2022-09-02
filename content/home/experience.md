@@ -28,7 +28,8 @@ experience:
     company_logo: cwru_logo
     location: Cleveland
     data_start: '2022-06-15'
-    date_end: |2-
+    date_end: 
+    description: |2-
         Responsibilities include:
         
         * R coding
