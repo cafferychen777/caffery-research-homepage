@@ -28,7 +28,7 @@ experience:
     company_logo: cwru_logo
     location: Cleveland
     data_start: '2022-06-15'
-    date_end: 
+    date_end: ''
     description: |2-
         Responsibilities include:
         
