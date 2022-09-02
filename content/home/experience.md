@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Case Western Reserve University
     company_url: 'https://case.edu/medicine/pqhs/'
-    company_logo: cwru_logo
+    company_logo: cwru-logo
     location: Cleveland
     data_start: '2022-06-15'
     date_end: ''
