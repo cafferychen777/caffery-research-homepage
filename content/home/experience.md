@@ -22,20 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
-  - title: Research Assistant
-    company: Case Western Reserve University
-    company_url: 'https://case.edu/medicine/pqhs/'
-    company_logo: 
-    location: Cleveland
-    data_start: '2022-06-15'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * R coding
-        * Qiime2
-        * Bayesian derivation
     
   - title: Research Assistant
     company: ACACIA LAB
