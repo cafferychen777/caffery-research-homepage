@@ -66,4 +66,4 @@ I am very good at mathematical modeling and have won a lot of awards in many nat
 
 During the summer of 2022, I worked as a research assistant at Case Western Reserve University Center for Quantitative Medicine, supervised by Professor Liangliang Zhang. We developed an R package that can be used to process microbiome data, and we are actively experimenting with Bayesian statistics for microbiome data.
 
-Now I'm looking for a 24 fall PhD position in biostatistics. If you can offer a opportunity, please feel free to contact me.
+Now I'm looking for a 23 summer internship and 24 fall PhD position in biostatistics or other similar fields. If you can offer a opportunity, please feel free to contact me.
