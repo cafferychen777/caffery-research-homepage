@@ -47,3 +47,4 @@ We're an open source movement that depends on your support to stay online and th
 * [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
 <!--END_SECTION:news-->
+* [![Netlify Status](https://api.netlify.com/api/v1/badges/8e93b43d-f7c9-4d96-b4f6-8459df5dc08a/deploy-status)](https://app.netlify.com/sites/cafferyyang/deploys)
