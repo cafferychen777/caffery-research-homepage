@@ -55,8 +55,6 @@ highlight_name: true
 
 ---
 
-# Biography
-
 I am a junior majoring in Biostatistics at Southern Medical University. I am proud to have received the National Scholarship from the Ministry of Education of China in 2020-2021, an honor awarded to only 0.2% of China's top students each year.
 
 I excel in mathematical modeling and have won numerous awards in national competitions. During my freshman year, I worked as a research assistant on a project that focused on grass-roots health quality assessment through standardized patients. Our findings have been put into practice and have made a positive impact on the field.
