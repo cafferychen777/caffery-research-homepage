@@ -12,4 +12,5 @@ I am eager to continue my education and pursue a PhD in the United States, where
 
 On this page, you will find information about my academic background, research projects, and publications. I hope you will find my work interesting and feel free to reach out to me with any questions or comments.
 
-![smu](/Users/apple/Documents/GitHub/Caffery-Academic-Homepage/images/IMG_0397.png)
+![smu](https://github.com/cafferychen777/caffery-research-homepage/blob/master/images/smu_view.png)
+
