@@ -55,14 +55,14 @@ highlight_name: true
 
 ---
 
-I am a junior in Southern Medical University majoring in biostatistics.
+# Biography
 
-I got 2020-2021 National Scholarship from Ministry of Education of China. Only 0.2 percent of China's top students receive this honor each year.
+I am a junior majoring in Biostatistics at Southern Medical University. I am proud to have received the National Scholarship from the Ministry of Education of China in 2020-2021, an honor awarded to only 0.2% of China's top students each year.
 
-I am very good at mathematical modeling and have won a lot of awards in many national competitions. And in my freshman year, I worked as a research assistant in a scientific research on grass-roots health quality assessment through standardized patients, which has been completed and the results have been put into practice. 
+I excel in mathematical modeling and have won numerous awards in national competitions. During my freshman year, I worked as a research assistant on a project that focused on grass-roots health quality assessment through standardized patients. Our findings have been put into practice and have made a positive impact on the field.
 
-During the summer of 2022, I worked as a research assistant at Case Western Reserve University Center for Quantitative Medicine, supervised by Professor Liangliang Zhang. We developed an R package that can be used to process microbiome data, and we are actively experimenting with Bayesian statistics for microbiome data.
+In the summer of 2022, I had the opportunity to work as a research assistant at the Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang. During my time there, I contributed to the development of an R package for processing microbiome data and gained experience in using Bayesian statistics for microbiome analysis.
 
-Now I'm looking for a 23 summer internship and 24 fall PhD position in biostatistics or other similar fields. If you can offer a opportunity, please feel free to contact me.
+I am currently seeking a summer internship for 2023 and a PhD position for fall 2023 in the field of Biostatistics or a related field. If you have any opportunities available, please do not hesitate to reach out to me.
 
-If you want to know me more, Please visit https://deft-druid-b06e09.netlify.app/people/ .
+To learn more about me, please visit my [research group website](https://cwru-cinema.netlify.app/author/chencaffery-yang/). 
