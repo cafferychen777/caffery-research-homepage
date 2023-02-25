@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: Case Western Reserve University
+    company_url: ''
+    company_logo: cwru_logo
+    location: Cleveland
+    date_start: '2022-06-01'
+    date_end: '2023-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Developing R Package for ggpicrust2 and microbiomegallery
+        * Write a Review on Statistics Methods on Microbiome Research
+        * Analyzing 16S rRNA Sequencing Data from Microbiome Samples and Writing a Data Analysis Report
   
   - title: Research Assistant
     company: ACACIA LAB
@@ -37,10 +50,10 @@ experience:
         * Communicating
         * Writing
         
-  - title: Research Assistant
+  - title: Leader
     company: Mathematical Modeling Group
     company_url: ''
-    company_logo: cwru-logo
+    company_logo: consortium_for_mathematics_and_its_applications
     location: Guangzhou
     date_start: '2021-05-01'
     date_end: ''
