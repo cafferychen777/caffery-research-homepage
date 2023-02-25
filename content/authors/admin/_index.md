@@ -18,9 +18,11 @@ bio: My research interests include biostatistics, statistics and bioinformatics.
 
 # Interests to show in About widget
 interests:
-- Genetics
-- Microbiome
-- Bayes
+- Genetic Statistics 
+- Microbiome 
+- Spatial Transcriptomics
+
+
 
 # Education to show in About widget
 education:
