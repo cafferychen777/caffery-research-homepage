@@ -31,6 +31,7 @@ experience:
   date_end: ''
   description: |2-
     Responsibilities include:
+
     * Collaborating on the development of an R package for longitudinal microbiome data analysis and visualization, which will be integrated into the MicrobiomeStat package
     * Creating MicrobiomeGallery, a platform for sharing advanced microbiome visualizations and code in an open source, reproducible environment, to connect with fellow researchers, exchange knowledge, and contribute to the ever growing microbiome community
 
@@ -43,7 +44,7 @@ experience:
     date_end: '2023-03-01'
     description: |2-
         Responsibilities include:
-        
+
         * Developing R Package for ggpicrust2 and microbiomegallery
         * Write a Review on Statistics Methods on Microbiome Research
         * Analyzing 16S rRNA Sequencing Data from Microbiome Samples and Writing a Data Analysis Report
