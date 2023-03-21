@@ -26,7 +26,7 @@ experience:
     company: Mayo Clinic
     company_url: ''
     company_logo: mayo_clinic_logo
-    location: Rochester, MN
+    location: Rochester
     date_start: '2023-03-01'
     date_end: ''
     description: |2-
@@ -39,9 +39,9 @@ experience:
     company: Case Western Reserve University
     company_url: ''
     company_logo: cwru_logo
-    location: Cleveland, OH
+    location: Cleveland
     date_start: '2022-06-01'
-    date_end: '2023-06-01'
+    date_end: '2023-03-01'
     description: |2-
         Responsibilities include:
         
