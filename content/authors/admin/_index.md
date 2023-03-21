@@ -57,12 +57,12 @@ highlight_name: true
 
 ---
 
-I am a junior majoring in Biostatistics at Southern Medical University. I am proud to have received the National Scholarship from the Ministry of Education of China in 2020-2021, an honor awarded to only 0.2% of China's top students each year.
+I am a junior majoring in Biostatistics at Southern Medical University, where I have excelled in coursework and earned a 3.97 GPA (WES) and ranking first out of 41 students. I am proud to have been awarded the National Scholarship from the Ministry of Education of China in 2020-2021, an honor bestowed upon only 0.2% of China's top students each year.
 
-I excel in mathematical modeling and have won numerous awards in national competitions. During my freshman year, I worked as a research assistant on a project that focused on grass-roots health quality assessment through standardized patients. Our findings have been put into practice and have made a positive impact on the field.
+My research experience includes working as a research assistant at Mayo Clinic under the supervision of Professor Jun Chen. I collaborated on the development of an R package for longitudinal microbiome data analysis and visualization, which will be integrated into the MicrobiomeStat package. Additionally, I created MicrobiomeGallery, a platform for sharing advanced microbiome visualizations and code in an open-source, reproducible environment, to connect with fellow researchers, exchange knowledge, and contribute to the ever-growing microbiome community.
 
-In the summer of 2022, I had the opportunity to work as a research assistant at the Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang. During my time there, I contributed to the development of an R package for processing microbiome data and gained experience in using Bayesian statistics for microbiome analysis.
+In addition to my work with Professor Jun Chen, I had the opportunity to work as a research assistant at Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang, where I contributed to the development of an R package for processing microbiome data and gained experience in using Bayesian statistics for microbiome analysis.
 
-I am currently seeking a summer internship for 2023 and a PhD position for fall 2023 in the field of Biostatistics or a related field. If you have any opportunities available, please do not hesitate to reach out to me.
+I have also won several awards in national competitions for my excellence in mathematical modeling. I am currently seeking a summer internship for 2023 and a PhD position for fall 2023 in the field of Biostatistics or a related field. If you have any opportunities available, please do not hesitate to reach out to me.
 
-To learn more about me, please visit my [research group website](https://cwru-cinema.netlify.app/author/chencaffery-yang/). 
+To learn more about me and my research experience, please visit my [research group website](https://cwru-cinema.netlify.app/author/chencaffery-yang/). {style="text-align: justify;"}
