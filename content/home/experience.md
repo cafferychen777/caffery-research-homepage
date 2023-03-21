@@ -22,18 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Research Assistant
-    company: Mayo Clinic
-    company_url: ''
-    company_logo: mayo_clinic_logo
-    location: Rochester
-    date_start: '2023-03-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Collaborating on the development of an R package for longitudinal microbiome data analysis and visualization, which will be integrated into the MicrobiomeStat package
-        * Creating MicrobiomeGallery, a platform for sharing advanced microbiome visualizations and code in an open source, reproducible environment, to connect with fellow researchers, exchange knowledge, and contribute to the ever growing microbiome community
+- title: Research Assistant
+  company: Mayo Clinic
+  company_url: ''
+  company_logo: mayo_clinic_logo
+  location: Rochester
+  date_start: '2023-03-01'
+  date_end: ''
+  description: |2-
+    Responsibilities include:
+    * Collaborating on the development of an R package for longitudinal microbiome data analysis and visualization, which will be integrated into the MicrobiomeStat package
+    * Creating MicrobiomeGallery, a platform for sharing advanced microbiome visualizations and code in an open source, reproducible environment, to connect with fellow researchers, exchange knowledge, and contribute to the ever growing microbiome community
 
   - title: Research Assistant
     company: Case Western Reserve University
