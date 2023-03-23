@@ -63,6 +63,6 @@ My research experience includes working as a research assistant at Mayo Clinic u
 
 In addition to my work with Professor Jun Chen, I had the opportunity to work as a research assistant at Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang, where I contributed to the development of an R package for processing microbiome data and gained experience in using Bayesian statistics for microbiome analysis.
 
-I have also won several awards in national competitions for my excellence in mathematical modeling. I am currently seeking a summer internship for 2023 and a PhD position for fall 2023 in the field of Biostatistics or a related field. If you have any opportunities available, please do not hesitate to reach out to me.
+I have also won several awards in national competitions for my excellence in mathematical modeling. I am currently seeking a summer internship for 2024 and a PhD position for fall 2023 in the field of Biostatistics or a related field. If you have any opportunities available, please do not hesitate to reach out to me.
 
 To learn more about me and my research experience, please visit my [research group website](https://cwru-cinema.netlify.app/author/chencaffery-yang/). 
