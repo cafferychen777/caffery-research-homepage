@@ -22,47 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-<<<<<<< HEAD
-<<<<<<< HEAD
-- title: Research Assistant
-  company: Mayo Clinic
-  company_url: ''
-  company_logo: mayo_clinic_logo
-  location: Rochester
-  date_start: '2023-03-01'
-  date_end: ''
-  description: |2-
-    Responsibilities include:
-    * Collaborating on the development of an R package for longitudinal microbiome data analysis and visualization, which will be integrated into the MicrobiomeStat package
-    * Creating MicrobiomeGallery, a platform for sharing advanced microbiome visualizations and code in an open source, reproducible environment, to connect with fellow researchers, exchange knowledge, and contribute to the ever growing microbiome community
-=======
- - title: Research Assistant
-    company: Mayo Clinic
-    company_url: ''
-    company_logo: mayo_clinic_logo
-    location: Rochester, MN
-    date_start: '2023-03-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Collaborating on the development of an R package for longitudinal microbiome data analysis and visualization, which will be integrated into the MicrobiomeStat package
-        * Creating MicrobiomeGallery, a platform for sharing advanced microbiome visualizations and code in an open-source, reproducible environment, to connect with fellow researchers, exchange knowledge, and contribute to the ever-growing microbiome community
->>>>>>> parent of 2480696 (Update experience.md)
-
-- title: Research Assistant
-  company: Case Western Reserve University
-  company_url: ''
-  company_logo: cwru_logo
-  location: Cleveland
-  date_start: '2022-06-01'
-  date_end: '2023-03-01'
-  description: |2-
-    Responsibilities include:
-    * Developing R Package for ggpicrust2 and microbiomegallery
-    * Write a Review on Statistics Methods on Microbiome Research
-    * Analyzing 16S rRNA Sequencing Data from Microbiome Samples and Writing a Data Analysis Report
-=======
   - title: Research Assistant
     company: Case Western Reserve University
     company_url: ''
@@ -72,12 +31,10 @@ experience:
     date_end: '2023-06-01'
     description: |2-
         Responsibilities include:
-        
         * Developing R Package for ggpicrust2 and microbiomegallery
         * Write a Review on Statistics Methods on Microbiome Research
         * Analyzing 16S rRNA Sequencing Data from Microbiome Samples and Writing a Data Analysis Report
->>>>>>> parent of 5507a5c (master)
-  
+ 
 - title: Research Assistant
   company: ACACIA LAB
   company_url: ''
@@ -98,7 +55,7 @@ experience:
   location: Guangzhou
   date_start: '2021-05-01'
   date_end: ''
-  description: Participated in a number of mathematical modeling competitions at different level.A variety of methods are used, including time series, multiple regression analysis, grey neural network prediction, greedy algorithm and so on.
+  description: Participated in a number of mathematical modeling competitions at different level. A variety of methods are used, including time series, multiple regression analysis, grey neural network prediction, greedy algorithm and so on.
 
 design:
   columns: '2'
