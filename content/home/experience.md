@@ -1,5 +1,4 @@
 ---
-​---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -58,9 +57,8 @@ experience:
     location: Guangzhou
     date_start: '2021-05-01'
     date_end: ''
-    description: Participated in a number of mathematical modeling competitions at different level. A variety of methods are used, including time series, multiple regression analysis, grey neural network prediction, greedy algorithm and so on.
+    description: Participated in a number of mathematical modeling competitions at different level.A variety of methods are used, including time series, multiple regression analysis, grey neural network prediction, greedy algorithm and so on.
 
 design:
   columns: '2'
-​---
 ---
